@@ -14,10 +14,10 @@ export default function Carousel() {
                 <div class="carousel-inner">
                     <div class="item active">
                         <img src="../images/guard.jpeg" alt="Los Angeles" className="carouselImage" />
-                        <div className="carousel-caption" style={{ zIndex: "10", top: "30%" }}>
+                        {/* <div className="carousel-caption" style={{ zIndex: "10", top: "30%" }}>
                             <h3 className="mt-3 mb-3" style={{ fontSize: "62px", color: "black", fontWeight: "800" }}>Welcome to </h3>
                             <p className="mt-3 mb-3" style={{ fontSize: "32px", color: "black" }}>Jlion Company</p>
-                        </div>
+                        </div> */}
 
                     </div>
 

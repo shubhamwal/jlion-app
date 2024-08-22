@@ -13,7 +13,7 @@ export default function First() {
         </div>
         <div className='col-md-6 col-12'>
           <div className="innerImage">
-            <img className="companyImage" src="../images/PICTURE.jpeg" alt="First Image" />
+            <img className="companyImage" src="../images/picture.jpeg" alt="First Image" />
           </div>
         </div>
       </div>
